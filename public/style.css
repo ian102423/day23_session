@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Finger Paint';
+  font-weight: 400;
+  src: local('Finger Paint'),
+    url('https://fonts.googleapis.com/css?family=Finger+Paint|Over+the+Rainbow');
+}
+
+body {
+  font-family: 'Finger Paint';
+  text-align: center;
+  background-color: #f0f8ff;
+}
+
+a {
+  text-transform: none;
+  text-underline-position: none;
+  color: #000000;
+}
+
+#home{
+    text-decoration: none;
+}
+#dot{
+    text-transform: none;
+    text-decoration: none;
+}
